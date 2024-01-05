@@ -38,4 +38,4 @@ The player with the highest bid gets to choose the trump suit for the round. The
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/toepen-game.git1
+   git clone [https://github.com/yourusername/toepen-game.git1](https://github.com/Stephen97T/GameToepen.git)https://github.com/Stephen97T/GameToepen.git
