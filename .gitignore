@@ -3,6 +3,8 @@
 
 # custom
 *.config
+*.jfif
+*.jpg
 gen_pw.py
 *.ipynb
 .vscode/
